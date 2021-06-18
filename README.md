@@ -3,6 +3,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FFeAvanso)
 ---
 I'm a programming student. I have experience with the technologies listed in the toolbox below.
+
 All the projects I created during my classes and some personal ones are here on my GitHub
 
 <!--
