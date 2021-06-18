@@ -9,7 +9,8 @@ All the projects I created during my classes and some personal ones are here on 
 ---
 🧰 ToolBox
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="CSS Logo" width="50" height="50">
+<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="C++" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80"> 
+
 
 ---
 🌱 I’m currently learning ...
