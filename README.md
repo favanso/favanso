@@ -9,7 +9,7 @@ All the projects I created during my classes and some personal ones are here on 
 ---
 🧰 ToolBox
 
-<img src=<"https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Java Logo" width="50" height="50"/>
+<i class="devicon-devicon-plain"></i>
 
 ---
 🌱 I’m currently learning ...
