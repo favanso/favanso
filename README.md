@@ -15,11 +15,12 @@ All the projects I created during my classes and some personal ones are here on 
 
 
 ---
-🌱 I’m currently learning ...
+
+# 🌱 I’m currently learning ...
+
+<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' title="JavaScript" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS" width="80" height="80"> 
 
 
-
----
 ## &#x1f4c8; My GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=favanso&count_private=true&show_icons=true&theme=vue&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
