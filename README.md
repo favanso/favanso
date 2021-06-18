@@ -9,7 +9,7 @@ All the projects I created during my classes and some personal ones are here on 
 ---
 🧰 ToolBox
 
-<i class="devicon-devicon-plain"></i>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg'>
 
 ---
 🌱 I’m currently learning ...
