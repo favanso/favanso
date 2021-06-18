@@ -1,7 +1,7 @@
 ### Hi, I'm Fernando 👋
 
-	/github/followers/:user?label=Follow
 <!--
+https://img.shields.io/twitter/url?label=My%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FFeAvanso
 **favanso/favanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
