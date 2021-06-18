@@ -5,10 +5,11 @@
 # BIO
 
 I'm a programming student. I have experience with the technologies listed in the toolbox below.
+
 All the projects I created during my classes and some personal ones are here on my GitHub
 
 ---
-🧰 ToolBox
+# 🧰 ToolBox
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="C++" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg' title="Kotlin" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title="Python" width="80" height="80"> 
 
