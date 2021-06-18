@@ -1,22 +1,22 @@
-### Hi, I'm Fernando 👋
+# Hi, I'm Fernando 👋
 ---
 ![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FFeAvanso)
 
-# BIO
+## BIO
 
 I'm a programming student. I have experience with the technologies listed in the toolbox below.
 
 All the projects I created during my classes and some personal ones are here on my GitHub
 
 ---
-# 🧰 ToolBox
+## 🧰 ToolBox
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="C++" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg' title="Kotlin" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg' title="Python" width="80" height="80"> 
 
 
----
 
-# 🌱 I’m currently learning ...
+
+## 🌱 I’m currently learning ...
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' title="JavaScript" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS" width="80" height="80"> 
 
