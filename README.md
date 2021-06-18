@@ -9,7 +9,7 @@ All the projects I created during my classes and some personal ones are here on 
 ---
 🧰 ToolBox
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg' title="CSS Logo" width="50" height="50">
+<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="CSS Logo" width="50" height="50">
 
 ---
 🌱 I’m currently learning ...
