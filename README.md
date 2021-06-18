@@ -11,7 +11,25 @@ All the projects I created during my classes and some personal ones are here on 
 
 <img src="<https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original.svg" alt="Java Logo" width="50" height="50"/>
 
+---
+🌱 I’m currently learning ...
+
+
+
+---
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<favanso>&theme=dark)](https://github.com/favanso/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<favanso>&theme=dark)](https://github.com/favanso/github-readme-stats)
+
+
 👯 I’m looking to collaborate on open source projects.
+
+
+
+
+
 
 <!--
 **favanso/favanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
