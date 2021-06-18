@@ -6,7 +6,10 @@
 I'm a programming student. I have experience with the technologies listed in the toolbox below.
 
 All the projects I created during my classes and some personal ones are here on my GitHub
+---
+🧰 ToolBox
 
+<img src="<https://worldvectorlogo.com/logo/java-4" alt="Java Logo" width="50" height="50"/>
 
 👯 I’m looking to collaborate on open source projects.
 
