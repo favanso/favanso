@@ -9,7 +9,7 @@ All the projects I created during my classes and some personal ones are here on 
 ---
 🧰 ToolBox
 
-<img src="<https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original.svg" alt="Java Logo" width="50" height="50"/>
+<img src=<"https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="Java Logo" width="50" height="50"/>
 
 ---
 🌱 I’m currently learning ...
