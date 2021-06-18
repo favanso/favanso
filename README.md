@@ -19,6 +19,9 @@ All the projects I created during my classes and some personal ones are here on 
 ---
 ## &#x1f4c8; My GitHub Stats
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=favanso)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<favanso>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=<favanso>&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
