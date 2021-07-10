@@ -2,9 +2,9 @@
 
 ## BIO
 
-#I'm a programming student. I have experience with the technologies listed in the toolbox below.
+# I'm a programming student. I have experience with the technologies listed in the toolbox below.
 
-#All the projects I created during my classes and some personal ones are here on my GitHub
+# All the projects I created during my classes and some personal ones are here on my GitHub
 
 
 ## 🧰 ToolBox
