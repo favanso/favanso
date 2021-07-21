@@ -15,6 +15,9 @@ All the projects I created during my classes and some personal ones are here on 
 ## 🌱 I’m currently learning ...
 
 <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' title="JavaScript" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS" width="80" height="80"> 
+src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg' title="Mongo" width="80" height="80"> 
+src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg' title="NodeJs" width="80" height="80"> 
+src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' title="React" width="80" height="80"> 
 
 
 ## &#x1f4c8; My GitHub Stats
