@@ -23,7 +23,7 @@ All the projects I created during my classes and some personal ones are here on 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=favanso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ ![Snake animation](https://github.com/favanso/favanso/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **favanso/favanso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
