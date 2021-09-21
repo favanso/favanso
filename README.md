@@ -9,7 +9,7 @@ All the projects I created during my classes and some personal ones are here on 
 
 ## 🧰 ToolBox
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="C++" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80"><img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' title="Php" width="70" height="70"> 
+ <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80"><img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' title="Php" width="70" height="70"> <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="C++" width="75" height="75">
 
 
 ## 🌱 I’m currently learning ...
