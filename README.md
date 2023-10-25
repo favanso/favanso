@@ -9,13 +9,13 @@ All the projects I created during my classes and some personal ones are here on 
 
 ## 🧰 ToolBox
 
- <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' title="Php" width="70" height="70"> <img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg' title="C++" width="70" height="70"> <img src='https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg' title="Salesforce" width="70" height="70">
+ <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80">  <img src='https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg' title="Salesforce" width="70" height="70"><img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML" width="80" height="80"><img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS" width="80" height="80">
  
 
 
 ## 🌱 I’m currently learning ...
 
-<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' title="JavaScript" width="70" height="70"><img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML" width="80" height="80"><img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg' title="Mongo" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg' title="NodeJs" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' title="React" width="80" height="80"> 
+<img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg' title="NodeJs" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' title="React" width="80" height="80"> 
 
 
 ## &#x1f4c8; My GitHub Stats
