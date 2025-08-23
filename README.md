@@ -2,20 +2,21 @@
 
 ## BIO
 
-I'm a programming student. I have experience with the technologies listed in the toolbox below.
+### Financial Analyst & Tech Enthusiast
 
-All the projects I created during my classes and some personal ones are here on my GitHub
+I bridge finance, data, and technology to deliver actionable insights and optimize digital infrastructure. Experienced with Salesforce CRM, financial analysis, KPI reporting, and automating processes, I focus on enabling precise decision-making and strategic cost optimization.
+
+💻 Tech & Tools: Salesforce, Firebase, Supabase, , API integrations, data visualization, automation.
+📊 Finance & Analytics: FP&A, KPI dashboards, performance metrics, financial modeling, reporting.
+⚡ Interests: Automotive sector media, Greek mythology, soccer, American sports, blockchain & crypto, IT troubleshooting.
+🛠 Projects: Social media automation, structured content creation, digital and financial infrastructure optimization, API-driven reporting solutions.
+
+Always exploring ways to merge finance, tech, and creativity into impactful solutions.
 
 
 ## 🧰 ToolBox
 
  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg' title="JAVA" width="80" height="80">  <img src='https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg' title="Salesforce" width="70" height="70"><img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg' title="HTML" width="80" height="80"><img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg' title="CSS" width="80" height="80">
- 
-
-
-## 🌱 I’m currently learning ...
-
-<img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg' title="NodeJs" width="80" height="80"> <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' title="React" width="80" height="80"> 
 
 
 ## &#x1f4c8; My GitHub Stats
