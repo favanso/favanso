@@ -6,10 +6,13 @@
 
 I bridge finance, data, and technology to deliver actionable insights and optimize digital infrastructure. Experienced with Salesforce CRM, financial analysis, KPI reporting, and automating processes, I focus on enabling precise decision-making and strategic cost optimization.
 
-💻 Tech & Tools: Salesforce, Firebase, Supabase, , API integrations, data visualization, automation.
-📊 Finance & Analytics: FP&A, KPI dashboards, performance metrics, financial modeling, reporting.
-⚡ Interests: Automotive sector media, Greek mythology, soccer, American sports, blockchain & crypto, IT troubleshooting.
-🛠 Projects: Social media automation, structured content creation, digital and financial infrastructure optimization, API-driven reporting solutions.
+ 💻 Tech & Tools: Salesforce, Firebase, Supabase, , API integrations, data visualization, automation.
+
+ 📊 Finance & Analytics: FP&A, KPI dashboards, performance metrics, financial modeling, reporting.
+
+ ⚡ Interests: Automotive sector media, Greek mythology, soccer, American sports, blockchain & crypto, IT troubleshooting.
+
+ 🛠 Projects: Social media automation, structured content creation, digital and financial infrastructure optimization, API-driven reporting solutions.
 
 Always exploring ways to merge finance, tech, and creativity into impactful solutions.
 
