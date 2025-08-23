@@ -1,7 +1,5 @@
 # Hi, I'm Fernando 👋
 
-## BIO
-
 ### Financial Analyst & Tech Enthusiast
 
 I bridge finance, data, and technology to deliver actionable insights and optimize digital infrastructure. Experienced with Salesforce CRM, financial analysis, KPI reporting, and automating processes, I focus on enabling precise decision-making and strategic cost optimization.
